@@ -220,6 +220,6 @@
           </array>
         </config-file>
 
-        <dependency id="com.googlemaps.ios" url="https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk" branch="master"  />
+        <dependency id="com.googlemaps.ios" url="https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk" commit="c644cdcc0459eec27af76128c33ddbea8d6dd7c8"  />
     </platform>
 </plugin>
